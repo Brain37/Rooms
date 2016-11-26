@@ -1,0 +1,5 @@
+c:\users\brian emo\documents\visual studio 2015\Projects\Rooms\Rooms\bin\Debug\Rooms.exe.config
+c:\users\brian emo\documents\visual studio 2015\Projects\Rooms\Rooms\bin\Debug\Rooms.exe
+c:\users\brian emo\documents\visual studio 2015\Projects\Rooms\Rooms\bin\Debug\Rooms.pdb
+c:\users\brian emo\documents\visual studio 2015\Projects\Rooms\Rooms\obj\Debug\Rooms.exe
+c:\users\brian emo\documents\visual studio 2015\Projects\Rooms\Rooms\obj\Debug\Rooms.pdb

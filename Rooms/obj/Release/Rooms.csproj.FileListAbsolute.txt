@@ -1,0 +1,6 @@
+C:\Users\Brian Emo\Documents\Visual Studio 2015\Projects\Rooms\Rooms\obj\Release\Rooms.csprojResolveAssemblyReference.cache
+C:\Users\Brian Emo\Documents\Visual Studio 2015\Projects\Rooms\Rooms\bin\Release\Rooms.exe.config
+C:\Users\Brian Emo\Documents\Visual Studio 2015\Projects\Rooms\Rooms\bin\Release\Rooms.exe
+C:\Users\Brian Emo\Documents\Visual Studio 2015\Projects\Rooms\Rooms\bin\Release\Rooms.pdb
+C:\Users\Brian Emo\Documents\Visual Studio 2015\Projects\Rooms\Rooms\obj\Release\Rooms.exe
+C:\Users\Brian Emo\Documents\Visual Studio 2015\Projects\Rooms\Rooms\obj\Release\Rooms.pdb
